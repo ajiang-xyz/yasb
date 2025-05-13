@@ -1022,3 +1022,58 @@
 2025-05-13 13:50:58,827 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
 2025-05-13 13:50:58,829 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
 2025-05-13 13:50:58,890 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f9045ebb-303b-11f0-b513-c4cb769af6ca
+2025-05-13 13:58:51,084 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-13 13:58:51,193 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-13 13:58:51,194 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-13 13:58:51,234 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-13 13:58:51,256 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-13 13:58:51,257 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-13 13:58:51,560 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-13 13:58:51,561 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-13 13:58:51,633 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-13 13:58:51,634 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-13 13:58:51,712 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-13 13:58:51,898 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-13 13:58:52,343 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-13 13:58:52,345 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-134d00c8-303d-11f0-b42a-c4cb769af6ca
+2025-05-13 13:58:52,413 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-13 13:58:52,415 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-13 13:58:52,467 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-134d00c8-303d-11f0-b42a-c4cb769af6ca
+2025-05-13 13:58:57,979 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-13 13:58:58,085 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-13 13:58:58,086 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-13 13:58:58,107 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-13 13:58:58,117 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-13 13:58:58,119 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-13 13:58:58,455 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-13 13:58:58,455 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-13 13:58:58,505 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-13 13:58:58,506 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-13 13:58:58,585 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-13 13:58:58,767 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-13 13:58:59,218 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-13 13:58:59,219 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-1765d69d-303d-11f0-ba5d-c4cb769af6ca
+2025-05-13 13:58:59,277 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-13 13:58:59,280 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-13 13:58:59,330 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-1765d69d-303d-11f0-ba5d-c4cb769af6ca
+2025-05-13 13:59:20,939 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-13 13:59:21,054 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-13 13:59:21,054 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-13 13:59:21,075 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-13 13:59:21,084 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-13 13:59:21,086 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-13 13:59:21,416 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-13 13:59:21,417 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-13 13:59:21,464 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-13 13:59:21,465 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-13 13:59:21,543 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-13 13:59:21,763 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-13 13:59:22,210 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-13 13:59:22,211 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-251a1bd0-303d-11f0-a3db-c4cb769af6ca
+2025-05-13 13:59:22,279 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-13 13:59:22,280 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-13 13:59:22,326 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-251a1bd0-303d-11f0-a3db-c4cb769af6ca
+2025-05-13 14:33:39,698 [WARNING] [Dummy-5] [root/event_listener.py:84]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-13 14:33:39,712 [INFO] [Dummy-5] [root/event_listener.py:94]: Attempting to reconnect to Komorebi...
+2025-05-13 14:33:42,714 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-251a1bd0-303d-11f0-a3db-c4cb769af6ca
+2025-05-13 14:34:39,376 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-251a1bd0-303d-11f0-a3db-c4cb769af6ca
