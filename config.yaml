@@ -40,8 +40,8 @@ widgets:
   media:
       type: "yasb.media.MediaWidget"
       options:
-        label: "<span>\uf001</span> {title}"
-        label_alt: "<span>\uf001</span> {artist}"
+        label: "<span>\uf001</span> {title} - {artist}"
+        label_alt: "<span>\uf001</span> {title} - {artist}"
         hide_empty: true
         max_field_size:
           label: 20
@@ -192,7 +192,7 @@ widgets:
         label_no_window: ""
         label_icon: false
         label_icon_size: 12
-        max_length: 36
+        max_length: 50
         max_length_ellipsis: "..."
         monitor_exclusive: true
   battery:
