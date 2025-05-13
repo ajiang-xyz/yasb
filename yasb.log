@@ -1,0 +1,983 @@
+2025-05-11 20:53:55,778 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 20:53:55,779 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 20:53:55,867 [INFO] [MainThread] [root/config.py:61]: Created default config file at C:\Users\jiang\.config\yasb\config.yaml
+2025-05-11 20:53:55,900 [INFO] [MainThread] [root/config.py:75]: Created default stylesheet at C:\Users\jiang\.config\yasb\styles.css
+2025-05-11 20:55:39,749 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 20:55:39,752 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 20:55:40,629 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 20:55:43,278 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-11 20:55:43,306 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 20:55:44,196 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 20:55:44,196 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-fab2eaa4-2ee4-11f0-b047-c4cb769af6ca
+2025-05-11 20:55:44,294 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 20:55:44,297 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 20:56:39,385 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-05-11 20:56:39,492 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 20:56:39,492 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 20:56:39,495 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 20:56:39,505 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 20:56:39,508 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 20:56:41,802 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 20:56:41,803 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 20:56:41,853 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 20:56:41,854 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 20:56:41,967 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 20:56:42,186 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-11 20:56:42,189 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 20:56:42,536 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 20:56:42,539 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-1d7964a4-2ee5-11f0-8176-c4cb769af6ca
+2025-05-11 20:56:42,601 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 20:56:42,603 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 20:59:54,114 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 20:59:54,114 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 20:59:54,115 [ERROR] [MainThread] [root/main.py:35]: Another instance of the YASB is already running.
+2025-05-11 21:00:03,218 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-11 21:00:03,328 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:00:03,329 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:00:03,406 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:00:03,422 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:00:03,425 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:00:03,434 [ERROR] [Dummy-87] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000026059FD7750>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:00:03,874 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:00:03,874 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:00:03,928 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:00:03,929 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:00:04,082 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:00:04,368 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-11 21:00:04,373 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:00:04,956 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:00:04,960 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-9620266e-2ee5-11f0-aac3-c4cb769af6ca
+2025-05-11 21:00:05,020 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:00:05,022 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:03:41,580 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-05-11 21:03:41,684 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:03:41,685 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:03:41,687 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:03:41,700 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:03:41,704 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:04:49,097 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:04:49,097 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:04:49,152 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:04:49,153 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:04:49,268 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:04:49,479 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-11 21:04:49,481 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:04:49,832 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:04:49,832 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-3fec8250-2ee6-11f0-8688-c4cb769af6ca
+2025-05-11 21:04:49,899 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:04:49,902 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:06:01,992 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-11 21:06:01,992 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-11 21:06:02,098 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:06:02,098 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:06:02,098 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:06:02,114 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:06:02,115 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:06:02,124 [ERROR] [Dummy-37] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000024259DF7750>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:06:03,754 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:06:03,754 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:06:03,804 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:06:03,805 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:06:03,887 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:06:04,690 [INFO] [Thread-7 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-11 21:06:04.690585
+2025-05-11 21:06:04,726 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:06:04,840 [ERROR] [Thread-6 (_get_github_data)] [root/github.py:396]: HTTP Error occurred: 401 - {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest","status":"401"}
+2025-05-11 21:06:05,105 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:06:05,107 [INFO] [Dummy-10] [root/event_listener.py:53]: Created named pipe yasb-6cca53aa-2ee6-11f0-8a93-c4cb769af6ca
+2025-05-11 21:06:05,169 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:06:05,170 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:07:02,329 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-11 21:07:02,329 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-11 21:07:02,444 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:07:02,445 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:07:02,446 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:07:02,460 [DEBUG] [Dummy-13] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:07:02,464 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:07:02,488 [ERROR] [Dummy-36] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL update_event of TaskbarWidget object at 0x00000235DEF2AC10>. Removing link to WinEvent.EventObjectDestroy.
+2025-05-11 21:07:04,026 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:07:04,027 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:07:04,070 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:07:04,071 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:07:04,162 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:07:04,386 [ERROR] [MainThread] [root/weather.py:46]: API key or location is missing. Please provide a valid API key and location.
+2025-05-11 21:07:04,387 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:07:04,730 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:07:04,733 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-90548807-2ee6-11f0-a456-c4cb769af6ca
+2025-05-11 21:07:04,792 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:07:04,795 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:08:14,845 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-11 21:08:14,845 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-11 21:08:14,954 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:08:14,954 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:08:14,965 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:08:14,969 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:08:14,972 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:08:16,496 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:08:16,497 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:08:16,535 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:08:16,536 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:08:16,674 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-11 21:08:16.674751
+2025-05-11 21:08:16,719 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:08:17,028 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:08:17,029 [INFO] [Dummy-6] [root/event_listener.py:53]: Created named pipe yasb-bb6c68f9-2ee6-11f0-baae-c4cb769af6ca
+2025-05-11 21:08:17,072 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:08:17,075 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:09:37,316 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-11 21:09:37,316 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-11 21:09:37,420 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:09:37,421 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:09:37,425 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:09:37,437 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:09:37,439 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:09:39,031 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:09:39,032 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:09:39,076 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:09:39,077 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:09:39,346 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:09:39,705 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-11 21:09:39.705050
+2025-05-11 21:09:39,998 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:09:40,235 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:09:40,282 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:09:40,284 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:13:45,442 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:13:45,564 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:13:45,565 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:13:45,596 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:13:45,604 [DEBUG] [Dummy-6] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:13:45,605 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:13:45,922 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:13:45,923 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:13:45,964 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:13:45,965 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:13:46,034 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:13:46,071 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:13:46,073 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:13:46,138 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:13:46,239 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:13:52,167 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:13:52,213 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:13:52,215 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:14:02,748 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:14:02,854 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:14:02,855 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:14:02,876 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:14:02,900 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:14:02,903 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:14:03,221 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:14:03,222 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:14:03,261 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:14:03,261 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:14:03,327 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:14:03,363 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:14:03,366 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:14:03,425 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:14:03,538 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:14:05,233 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:14:05,286 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:14:05,289 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:14:07,448 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:14:07,553 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:14:07,554 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:14:07,589 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:14:07,600 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:14:07,602 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:14:07,903 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:14:07,904 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:14:07,942 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:14:07,943 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:14:08,011 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:14:08,048 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:14:08,051 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:14:08,135 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:14:08,222 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:14:10,599 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:14:10,652 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:14:10,655 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:14:16,552 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:14:16,658 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:14:16,658 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:14:16,684 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:14:16,705 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:14:16,707 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:14:16,714 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000293CEE20FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:14:17,019 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:14:17,019 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:14:17,058 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:14:17,059 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:14:17,126 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:14:17,162 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:14:17,164 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:14:17,226 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:14:17,327 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:14:19,140 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:14:19,201 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:14:19,205 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:14:20,802 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:14:20,910 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:14:20,910 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:14:20,932 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:14:20,942 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:14:20,944 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:14:21,260 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:14:21,261 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:14:21,304 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:14:21,304 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:14:21,371 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:14:21,409 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:14:21,411 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:14:21,471 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:14:21,570 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:14:23,022 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:14:23,073 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:14:23,074 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:15:02,985 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:15:03,088 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:15:03,089 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:15:03,114 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:15:03,133 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:15:03,136 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:15:03,148 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002683B610FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:15:03,452 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:15:03,452 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:15:03,492 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:15:03,493 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:15:03,560 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:15:03,597 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:15:03,598 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:15:03,660 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:15:03,772 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:15:05,226 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:15:05,283 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:15:05,285 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:15:23,593 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:15:23,703 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:15:23,703 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:15:23,735 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:15:23,749 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:15:23,751 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:15:23,765 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000163072D0FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:15:24,089 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:15:24,090 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:15:24,133 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:15:24,134 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:15:24,206 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:15:24,255 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:15:24,257 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:15:24,326 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:15:24,407 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:15:25,759 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:15:25,816 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:15:25,818 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:15:33,152 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:15:33,261 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:15:33,261 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:15:33,286 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:15:33,306 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:15:33,312 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:15:33,322 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000020818030FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:15:33,632 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:15:33,633 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:15:33,673 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:15:33,674 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:15:33,776 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:15:33,811 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:15:33,813 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:15:33,874 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:15:33,950 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:15:42,032 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:15:42,081 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:15:42,083 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:15:57,842 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:15:57,955 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:15:57,958 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:15:57,989 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:15:58,002 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:15:58,004 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:15:58,011 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001EA2A020FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:15:58,323 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:15:58,323 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:15:58,363 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:15:58,364 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:15:58,432 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:15:58,470 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:15:58,472 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:15:58,533 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:15:58,630 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:16:00,744 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:16:00,798 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:16:00,799 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:16:44,357 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:16:44,465 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:16:44,467 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:16:44,491 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:16:44,509 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:16:44,513 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:16:44,523 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000201626F4FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:16:44,832 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:16:44,832 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:16:44,872 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:16:44,873 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:16:44,941 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:16:44,982 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:16:44,985 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:16:45,050 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:16:45,153 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:16:48,242 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:16:48,294 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:16:48,301 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:11,610 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:11,719 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:11,720 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:11,748 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:11,765 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:11,767 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:12,078 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:12,078 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:12,120 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:12,121 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:12,188 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:12,226 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:12,228 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:12,286 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:12,372 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:17:13,764 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:13,819 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:13,822 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:16,532 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:16,642 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:16,643 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:16,675 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:16,688 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:16,691 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:16,702 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001E781810FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:17:17,002 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:17,002 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:17,042 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:17,043 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:17,131 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:17,168 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:17,170 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:17,230 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:17,323 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:17:20,918 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:20,976 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:20,977 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:23,198 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:23,302 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:23,303 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:23,338 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:23,348 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:23,350 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:23,667 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:23,668 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:23,708 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:23,709 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:23,776 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:23,814 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:23,817 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:23,881 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:23,978 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:17:28,398 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:28,449 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:28,458 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:40,098 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:40,213 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:40,213 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:40,226 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:40,229 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:40,231 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:40,547 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:40,547 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:40,585 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:40,586 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:40,654 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:40,690 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:40,692 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:40,753 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:40,840 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:17:42,903 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:42,963 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:42,965 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:45,101 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:45,208 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:45,209 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:45,230 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:45,239 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:45,241 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:45,257 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001A2B1020FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:17:45,560 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:45,561 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:45,602 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:45,603 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:45,670 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:45,704 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:45,707 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:45,772 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:45,866 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:17:49,721 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:49,772 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:49,774 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:51,149 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:51,252 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:51,252 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:51,269 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:51,283 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:51,287 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:51,605 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:51,605 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:51,644 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:51,645 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:51,712 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:51,747 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:51,750 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:51,809 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:51,899 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:17:53,249 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:53,299 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:53,300 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:54,393 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:54,509 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:54,510 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:54,535 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:54,547 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:54,550 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:54,561 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000023D82D10FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:17:54,862 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:54,862 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:54,902 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:54,903 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:54,971 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:55,006 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:55,008 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:55,070 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:55,161 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:17:56,676 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:17:56,730 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:17:56,733 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:17:57,504 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:17:57,637 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:17:57,637 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:17:57,659 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:17:57,682 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:17:57,685 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:17:57,993 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:17:57,994 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:17:58,032 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:17:58,033 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:17:58,097 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:17:58,135 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:17:58,137 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:17:58,198 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:17:58,278 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:18:03,277 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:18:03,332 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:18:03,334 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:18:05,721 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:18:05,835 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:18:05,837 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:18:05,859 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:18:05,884 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:18:05,888 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:18:05,897 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000028BB1591090>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:18:06,201 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:18:06,202 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:18:06,241 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:18:06,242 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:18:06,308 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:18:06,347 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:18:06,349 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:18:06,414 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:18:06,489 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:18:14,587 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:18:14,645 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:18:14,647 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:18:31,498 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:18:31,607 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:18:31,607 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:18:31,616 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:18:31,623 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:18:31,625 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:18:31,915 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:18:31,916 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:18:31,959 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:18:31,959 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:18:32,026 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:18:32,062 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:18:32,065 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:18:32,124 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:18:32,210 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:18:35,188 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:18:35,249 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:18:35,252 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:18:39,723 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:18:39,837 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:18:39,838 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:18:39,860 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:18:39,884 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:18:39,887 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:18:40,212 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:18:40,213 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:18:40,253 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:18:40,253 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:18:40,320 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:18:40,358 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:18:40,360 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:18:40,419 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:18:40,501 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:18:42,481 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:18:42,532 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:18:42,534 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:18:58,241 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:18:58,349 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:18:58,350 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:18:58,379 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:18:58,394 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:18:58,396 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:18:58,704 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:18:58,704 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:18:58,745 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:18:58,746 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:18:58,813 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:18:58,848 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:18:58,850 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:18:58,910 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:18:58,992 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "microphone" is undefined.
+ - The widget "notifications" is undefined.
+2025-05-11 21:19:01,030 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:19:01,083 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:19:01,085 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:19:20,320 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:19:20,425 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:19:20,426 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:19:20,457 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:19:20,472 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:19:20,475 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:19:20,812 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:19:20,813 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:19:20,856 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:19:20,857 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:19:20,932 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:19:20,972 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:19:20,974 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:19:21,036 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:19:21,124 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:19:22,684 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:19:22,741 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:19:22,743 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:19:33,143 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{04ee3b3a-dbe8-4d75-9aff-6d2202523aef}
+2025-05-11 21:19:50,173 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:19:50,275 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:19:50,275 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:19:50,319 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:19:50,339 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:19:50,342 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:19:50,649 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:19:50,649 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:19:50,691 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:19:50,691 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:19:50,771 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:19:50,813 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:19:50,815 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:19:50,890 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:19:50,890 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'power_menu
+2025-05-11 21:19:50,984 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "power_menu" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:19:52,341 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:19:52,407 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:19:52,410 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:19:55,543 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:19:55,647 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:19:55,649 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:19:55,673 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:19:55,694 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:19:55,698 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:19:55,704 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000020A5E0A4FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:19:55,999 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:19:56,000 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:19:56,036 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:19:56,037 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:19:56,111 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:19:56,152 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'microphone
+2025-05-11 21:19:56,154 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:19:56,220 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:19:56,295 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+ - The widget "microphone" is undefined.
+2025-05-11 21:19:57,666 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:19:57,730 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:19:57,732 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:20:16,200 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:20:16,310 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:20:16,311 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:20:16,340 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:20:16,356 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:20:16,359 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:20:16,694 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:20:16,694 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:20:16,735 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:20:16,736 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:20:16,806 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:20:16,846 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:20:16,929 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:20:17,014 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+2025-05-11 21:20:19,810 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:20:19,866 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:20:19,868 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:20:36,767 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:20:36,872 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:20:36,874 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:20:36,905 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:20:36,919 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:20:36,921 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:20:37,242 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:20:37,243 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:20:37,281 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:20:37,282 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:20:37,349 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:20:37,387 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:20:37,458 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:20:37,532 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+2025-05-11 21:20:38,617 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:20:38,672 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:20:38,674 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:21:04,164 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:21:04,270 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:21:04,270 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:21:04,293 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:21:04,316 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:21:04,319 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:21:04,329 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000252E69D0FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-11 21:21:04,622 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:21:04,623 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:21:04,678 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:21:04,679 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:21:04,756 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:21:04,804 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:21:04,886 [WARNING] [MainThread] [root/widget_builder.py:38]: No widget config could be found for widget 'notifications
+2025-05-11 21:21:04,968 [ERROR] [MainThread] [root/widget_builder.py:77]: Failed to add undefined widget(s)  - The widget "notifications" is undefined.
+2025-05-11 21:21:06,827 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:21:06,879 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:21:06,881 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:21:18,207 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-11 21:21:18,318 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:21:18,319 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:21:18,346 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:21:18,363 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:21:18,367 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:21:18,710 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:21:18,710 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:21:18,760 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:21:18,761 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:21:18,870 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:21:18,915 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:21:19,195 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:21:19,254 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:21:19,257 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:21:44,570 [INFO] [MainThread] [root/utilities.py:115]: Created shortcut at C:\Users\jiang\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\yasb.lnk
+2025-05-11 21:24:50,259 [INFO] [MainThread] [root/controller.py:12]: Reloading Application from tray...
+2025-05-11 21:24:50,365 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:24:50,367 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:24:50,434 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:24:50,443 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:24:50,445 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:24:50,463 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002B96DF90FF0>. Removing link to WinEvent.EventObjectStateChange.
+2025-05-11 21:24:50,754 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-11 21:24:50,755 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-11 21:24:50,796 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-11 21:24:50,797 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-11 21:24:50,864 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-11 21:24:50,903 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-11 21:24:51,202 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-11 21:24:51,248 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-11 21:24:51,251 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-11 21:28:30,241 [INFO] [MainThread] [root/controller.py:27]: Exiting Application from tray...
+2025-05-11 21:28:30,342 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-11 21:28:30,342 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-11 21:28:30,343 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-11 21:28:30,357 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-11 21:28:30,358 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-11 21:28:30,364 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x00000185BC9D0FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-12 21:55:38,989 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 21:55:38,989 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 21:55:39,067 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 21:55:39,067 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 21:55:39,401 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 21:55:40,698 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 21:55:41,625 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 21:55:41,764 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 21:55:41,766 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 21:58:42,154 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 21:58:42,262 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 21:58:42,262 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 21:58:42,289 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 21:58:42,309 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 21:58:42,313 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 21:58:42,330 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000020867A34FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-12 21:58:42,690 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 21:58:42,690 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 21:58:42,746 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 21:58:42,747 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 21:58:42,813 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 21:58:42,854 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 21:58:43,200 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 21:58:43,281 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 21:58:43,283 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 21:58:51,420 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 21:58:51,526 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 21:58:51,526 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 21:58:51,551 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 21:58:51,573 [DEBUG] [Dummy-5] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 21:58:51,576 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 21:58:51,596 [ERROR] [Dummy-6] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000002A5961A0FF0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-12 21:58:51,954 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 21:58:51,955 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 21:58:51,995 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 21:58:51,995 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 21:58:52,171 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 21:58:52,209 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 21:58:52,496 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 21:58:52,529 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-f71da260-2fb6-11f0-a543-c4cb769af6ca
+2025-05-12 21:58:52,598 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 21:58:52,600 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 21:58:52,825 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f71da260-2fb6-11f0-a543-c4cb769af6ca
+2025-05-12 22:04:20,139 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-12 22:04:20,140 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-12 22:04:20,248 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:04:20,248 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:04:20,249 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:04:20,263 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:04:20,277 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:04:20,425 [ERROR] [Dummy-5] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x00000247D6EB1130>. Removing link to KomorebiEvent.KomorebiUpdate.
+2025-05-12 22:04:23,998 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:04:23,998 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:04:24,073 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:04:24,073 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:04:24,171 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:04:24,677 [INFO] [Thread-3 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-12 22:04:24.677190
+2025-05-12 22:04:24,681 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:04:25,218 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:04:25,220 [INFO] [Dummy-6] [root/event_listener.py:53]: Created named pipe yasb-bd6f29d5-2fb7-11f0-8786-c4cb769af6ca
+2025-05-12 22:04:25,270 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:04:25,272 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:04:25,351 [INFO] [Dummy-6] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-bd6f29d5-2fb7-11f0-8786-c4cb769af6ca
+2025-05-12 22:05:07,333 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:249]: CLI server received command: stop
+2025-05-12 22:05:07,333 [INFO] [Thread-1 (_run_server)] [root/controller.py:27]: Exiting Application from CLI...
+2025-05-12 22:05:07,436 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:05:07,436 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:05:07,438 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:05:07,451 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:05:07,455 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:05:10,005 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:05:10,006 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:05:10,055 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:05:10,055 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:05:10,135 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:05:10,438 [INFO] [Thread-6 (_get_weather_data)] [root/weather.py:349]: Fetched new weather data at 2025-05-12 22:05:10.438299
+2025-05-12 22:05:10,458 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:05:10,820 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:05:10,821 [INFO] [Dummy-9] [root/event_listener.py:53]: Created named pipe yasb-d89d691a-2fb7-11f0-be94-c4cb769af6ca
+2025-05-12 22:05:10,873 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:05:10,876 [DEBUG] [Dummy-12] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:05:10,924 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-d89d691a-2fb7-11f0-be94-c4cb769af6ca
+2025-05-12 22:05:53,922 [DEBUG] [MainThread] [root/volume.py:330]: Attempting PolicyConfig interface with device: {0.0.0.00000000}.{04ee3b3a-dbe8-4d75-9aff-6d2202523aef}
+2025-05-12 22:08:19,222 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:08:19,342 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:08:19,343 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:08:19,369 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:08:19,379 [DEBUG] [Dummy-12] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:08:19,381 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:08:19,739 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:08:19,739 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:08:19,789 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:08:19,791 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:08:19,872 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:08:20,111 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:08:20,525 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:08:20,526 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-49b00f27-2fb8-11f0-9aa8-c4cb769af6ca
+2025-05-12 22:08:20,576 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:08:20,579 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:08:20,655 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-49b00f27-2fb8-11f0-9aa8-c4cb769af6ca
+2025-05-12 22:08:54,318 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:08:54,432 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:08:54,433 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:08:54,458 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:08:54,479 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:08:54,482 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:08:54,506 [ERROR] [Dummy-10] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x0000010A4AD7C5F0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-12 22:08:54,855 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:08:54,855 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:08:54,905 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:08:54,906 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:08:54,985 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:08:55,172 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:08:55,563 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:08:55,564 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-5e925af4-2fb8-11f0-b0dd-c4cb769af6ca
+2025-05-12 22:08:55,622 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:08:55,623 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:08:55,682 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-5e925af4-2fb8-11f0-b0dd-c4cb769af6ca
+2025-05-12 22:09:00,890 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:09:00,997 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:09:00,998 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:09:01,014 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:09:01,032 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:09:01,034 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:09:01,389 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:09:01,390 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:09:01,439 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:09:01,440 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:09:01,520 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:09:01,700 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:09:02,103 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:09:02,104 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-627857cb-2fb8-11f0-9d37-c4cb769af6ca
+2025-05-12 22:09:02,159 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:09:02,161 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:09:02,247 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-627857cb-2fb8-11f0-9d37-c4cb769af6ca
+2025-05-12 22:11:02,692 [INFO] [MainThread] [root/bar.py:99]: Screen geometry changed. Updating position for bar (status-bar_LEN C32q-20_8e32ae75)
+2025-05-12 22:13:30,507 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:13:30,623 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:13:30,624 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:13:30,673 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:13:30,685 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:13:30,687 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:13:31,031 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:13:31,031 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:13:31,081 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:13:31,081 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:13:31,248 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:13:31,564 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:13:32,292 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:13:32,317 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-0383ec5d-2fb9-11f0-be28-c4cb769af6ca
+2025-05-12 22:13:32,363 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:13:32,365 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:13:32,469 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0383ec5d-2fb9-11f0-be28-c4cb769af6ca
+2025-05-12 22:13:41,255 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:13:41,358 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:13:41,360 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:13:41,386 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:13:41,405 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:13:41,406 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:13:41,429 [ERROR] [Dummy-10] [root/event_service.py:30]: Failed to emit signal <bound PYQT_SIGNAL window_name_change of ActiveWindowWidget object at 0x000001F4EE0105F0>. Removing link to WinEvent.EventObjectNameChange.
+2025-05-12 22:13:41,773 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:13:41,774 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:13:41,824 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:13:41,825 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:13:41,907 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:13:42,090 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:13:42,481 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:13:42,482 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-0996a86f-2fb9-11f0-9636-c4cb769af6ca
+2025-05-12 22:13:42,534 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:13:42,537 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:13:42,600 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0996a86f-2fb9-11f0-9636-c4cb769af6ca
+2025-05-12 22:13:51,950 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:13:52,065 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:13:52,066 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:13:52,091 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:13:52,108 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:13:52,112 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:13:52,505 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:13:52,506 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:13:52,553 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:13:52,555 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:13:52,637 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:13:52,820 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:13:53,238 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:13:53,239 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-10001be9-2fb9-11f0-bf3c-c4cb769af6ca
+2025-05-12 22:13:53,307 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:13:53,308 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:13:53,398 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-10001be9-2fb9-11f0-bf3c-c4cb769af6ca
+2025-05-12 22:14:00,096 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:14:00,204 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:14:00,205 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:14:00,232 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:14:00,250 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:14:00,254 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:14:00,618 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:14:00,620 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:14:00,677 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:14:00,677 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:14:00,776 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:14:00,986 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:14:01,438 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:14:01,438 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-14e2d4ec-2fb9-11f0-892b-c4cb769af6ca
+2025-05-12 22:14:01,498 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:14:01,500 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:14:01,559 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-14e2d4ec-2fb9-11f0-892b-c4cb769af6ca
+2025-05-12 22:14:35,498 [INFO] [MainThread] [root/controller.py:12]: Reloading Application because of config update...
+2025-05-12 22:14:35,610 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-05-12 22:14:35,610 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-05-12 22:14:35,635 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-05-12 22:14:35,657 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-05-12 22:14:35,661 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-05-12 22:14:35,993 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 22:14:35,993 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 22:14:36,040 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 22:14:36,042 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 22:14:36,120 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 22:14:36,308 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 22:14:36,697 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 22:14:36,698 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 22:14:36,750 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 22:14:36,751 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 22:14:36,805 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 22:20:31,285 [WARNING] [Dummy-5] [root/event_listener.py:84]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-12 22:20:31,286 [INFO] [Dummy-5] [root/event_listener.py:94]: Attempting to reconnect to Komorebi...
+2025-05-12 22:20:34,286 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 22:20:39,709 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 23:26:38,307 [WARNING] [Dummy-5] [root/event_listener.py:84]: Pipe has been ended: (109, 'PeekNamedPipe', 'The pipe has been ended.')
+2025-05-12 23:26:38,307 [INFO] [Dummy-5] [root/event_listener.py:94]: Attempting to reconnect to Komorebi...
+2025-05-12 23:26:41,309 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 23:26:43,262 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-29e763e9-2fb9-11f0-97bb-c4cb769af6ca
+2025-05-12 23:26:44,400 [ERROR] [Dummy-5] [root/client.py:44]: Komorebi state query timed out in 0.5 seconds
+2025-05-12 23:26:44,401 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:46,499 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:48,661 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:50,837 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:53,036 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:55,246 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:57,433 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:26:59,596 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:01,691 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:03,868 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:06,088 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:08,272 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:10,367 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:13,474 [ERROR] [Dummy-5] [root/client.py:44]: Komorebi state query timed out in 0.5 seconds
+2025-05-12 23:27:13,475 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:15,676 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:27:17,902 [ERROR] [Dummy-5] [root/event_listener.py:129]: Failed to retrieve komorebi state before starting event listener: None returned. Retrying in 1 second... Is komorebi online and its binaries added to $PATH?
+2025-05-12 23:29:18,907 [INFO] [MainThread] [root/log.py:59]: Yasb v1.7.1
+2025-05-12 23:29:18,908 [INFO] [MainThread] [root/env_loader.py:22]: No env file found at C:\Users\jiang\.config\yasb\.env, skipping environment loading.
+2025-05-12 23:29:18,990 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.0
+2025-05-12 23:29:18,991 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-05-12 23:29:19,543 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-05-12 23:29:21,688 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-05-12 23:29:22,429 [INFO] [MainThread] [root/watcher.py:55]: Created file watcher for path C:\Users\jiang\.config\yasb
+2025-05-12 23:29:22,430 [INFO] [Dummy-5] [root/event_listener.py:53]: Created named pipe yasb-9b9badd7-2fc3-11f0-b528-c4cb769af6ca
+2025-05-12 23:29:22,495 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-05-12 23:29:22,496 [DEBUG] [Dummy-8] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-05-12 23:30:29,459 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9b9badd7-2fc3-11f0-b528-c4cb769af6ca
+2025-05-12 23:32:30,685 [ERROR] [Dummy-36] [core.utils.win32.media/media.py:264]: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-05-12 23:35:16,020 [ERROR] [Dummy-37] [core.utils.win32.media/media.py:264]: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
+2025-05-12 23:36:50,540 [ERROR] [Dummy-37] [core.utils.win32.media/media.py:264]: MediaCallback: Error occurred whilst fetching media properties and thumbnail: [WinError -2147024875] The device is not ready
